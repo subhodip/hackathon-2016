@@ -1,6 +1,7 @@
 crab==0.5.0
 cycler==0.10.0
 falcon==0.3.0
+gunicorn==19.6.0
 json-tricks==2.1
 matplotlib==1.5.1
 numpy==1.11.0
@@ -9,6 +10,7 @@ pyparsing==2.1.1
 python-dateutil==2.5.2
 python-mimeparse==1.5.1
 pytz==2016.3
+redis==2.10.5
 scikit-learn==0.17.1
 scipy==0.17.0
 seaborn==0.7.0
