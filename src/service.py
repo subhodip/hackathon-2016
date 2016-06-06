@@ -55,6 +55,6 @@ class ThingsResource(object):
 
 wsgi_app = api = falcon.API()
 
-things = ThingsResource()
+service = ThingsResource()
 
-api.add_route('/recommend', things)
+api.add_route('/recommend', service)
